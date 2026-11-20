@@ -85,17 +85,6 @@ I enjoy exploring new technologies, solving technical challenges, and working wi
 
 ---
 
-## 📂 Project Highlights
-
-| Project | Technologies | Description |
-|---|---|---|
-| **Maritime IT Security – Smart Glasses Application** | Python, PySide6, SQLite, YOLO | Developing a desktop application integrating Tobii smart glasses, live video, gaze tracking, and AI-assisted event detection for maritime cybersecurity training. |
-| **Vredeveld – AI Truck Inspection** | Python, Computer Vision, YOLO | Trained a custom AI model to detect trucks and assist with camera-based vehicle inspection. |
-| **Dopple – Smart Office Dashboard** | Web Development, Databases | Led a team developing a dashboard with live camera feeds, motion detection, remote door control, and visitor management. |
-| **DMK – Industrial Automation Research** | Technical Research, Process Analysis | Investigated production workflows and identified potential automation opportunities for a manufacturing facility. |
-
----
-
 ## 🎨 Additional Interests
 
 - 3D Modelling & Blender

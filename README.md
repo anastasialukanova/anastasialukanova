@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Anastasia Lukanova!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3178C6&center=false&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Always+Building+Something+New)](https://git.io/typing-svg)
-font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3178C6&center=false&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Always+Building+Something+New)](https://git.io/typing-svg)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anastasija.lukanova4971@gmail.com)
 
 

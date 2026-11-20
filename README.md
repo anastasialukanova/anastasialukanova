@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Anastasia Lukanova!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3178C6&center=false&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Always+Building+Something+New)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anastasialukanova)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anastasija.lukanova4971@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_YOUR_LINKEDIN_URL)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anastasialukanova&show_icons=true&theme=github_dark&hide_border=true)
 
@@ -114,13 +113,3 @@ I enjoy exploring new technologies, solving technical challenges, and working wi
 **BSc Software Engineering**  
 NHL Stenden University of Applied Sciences  
 Netherlands | Expected Graduation: 2027
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in interesting projects, new technologies, and opportunities to collaborate.
-
-- **GitHub:** [anastasialukanova](https://github.com/anastasialukanova)
-- **Email:** [anastasija.lukanova4971@gmail.com](mailto:anastasija.lukanova4971@gmail.com)
-- **LinkedIn:** [Add your LinkedIn profile](ADD_YOUR_LINKEDIN_URL)

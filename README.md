@@ -4,7 +4,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anastasija.lukanova4971@gmail.com)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anastasialukanova&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasialukanova&layout=compact&theme=github_dark&hide_border=true)
 
